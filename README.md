@@ -1,15 +1,23 @@
-# Hi, I'm Gopi Sri Krishna Yarlagadda 👋
+# Gopi Sri Krishna Yarlagadda
 
-**Full Stack Engineer @ [Ascend Cargo](https://ascendcargo.com/)** — building an AI-powered freight & logistics SaaS platform from scratch.
+**Lead Full Stack Engineer @ [Ascend Cargo](https://ascendcargo.com/)** · Dallas, TX · also written *Gopi Sri Krishna*
 
-I design and build backend systems and agentic AI features: scalable Python/Java microservices on Kubernetes, secure auth (OAuth 2.0, JWT, RBAC), and AI agents using **Retrieval-Augmented Generation (RAG)** and the **Model Context Protocol (MCP)** that automate shipment and invoice workflows.
+I build an AI-powered freight and logistics SaaS platform from scratch. My work covers agentic AI, **retrieval-augmented generation (RAG)** and the **Model Context Protocol (MCP)**, backed by scalable Python and Java microservices on Kubernetes with secure authentication (OAuth 2.0, JWT, RBAC, SSO).
 
-- 🔭 Currently building: an AI-powered logistics SaaS platform (rates/carriers, shipments, gate & yard, billing, AI agents) at Ascend Cargo
-- 🤖 Focus areas: Agentic AI · RAG · MCP (Model Context Protocol) · Full stack development
-- 🛠️ Languages & frameworks: Python, Java, JavaScript, React, Spring Boot
-- ☁️ Infra: Kubernetes, Docker, GCP, CI/CD (GitHub Actions)
-- 🎓 M.S. Computer Science, University of Texas at Arlington
-- 📫 Reach me: [gopisrikrishna.y@gmail.com](mailto:gopisrikrishna.y@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gopisrikrishna/) · [Resume site](https://gopisrikrishna.github.io/resume/)
+### Find me
+- 🌐 Portfolio and resume: [gopisrikrishna.github.io/resume](https://gopisrikrishna.github.io/resume/)
+- 💼 LinkedIn: [linkedin.com/in/gopisrikrishna](https://www.linkedin.com/in/gopisrikrishna/)
+- ✍️ Writing: [medium.com/@gopisrikrishna.y](https://medium.com/@gopisrikrishna.y)
+- 📫 Email: [gopisrikrishna.y@gmail.com](mailto:gopisrikrishna.y@gmail.com)
 
-### Featured project
-**[solarnetwork-mcp](https://github.com/gopisrikrishna/solarnetwork-mcp)** — an MCP server for solar asset management: reads live SolarNetwork telemetry, finds dated equipment faults, and writes field-ready service reports as PDFs.
+### What I work on
+- **Agentic AI**: agents that automate shipment and invoice workflows, with a person approving final decisions
+- **RAG and MCP**: connecting models to real operational data through tools and retrieval
+- **Backend and platform**: Python, Java, Spring Boot, REST APIs, Kubernetes, Docker, GCP, GitHub Actions CI/CD
+- **Frontend**: React and JavaScript
+
+### Featured open-source project
+**[solarnetwork-mcp](https://github.com/gopisrikrishna/solarnetwork-mcp)** is an MCP server for solar asset management. It reads SolarNetwork telemetry, finds dated equipment faults, and writes field-ready service reports as PDFs.
+
+### Education
+M.S. Computer Science, The University of Texas at Arlington (2024) · B.Tech Computer Science, Dhanekula Institute of Engineering and Technology (2022)
