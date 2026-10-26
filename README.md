@@ -19,6 +19,9 @@ I build an AI-powered freight and logistics SaaS platform from scratch. My work 
 ### Featured project
 **[solarnetwork-mcp](https://github.com/gopisrikrishna/solarnetwork-mcp)** is an MCP server for solar asset management. It reads SolarNetwork telemetry, finds dated equipment faults, and writes field-ready service reports as PDFs.
 
+### Writing
+- [An AI agent that diagnoses solar faults](https://gopisrikrishna.github.io/blog/solarnetwork-mcp/) on my site, and [on Medium](https://medium.com/@gopisrikrishna.y/solarnetwork-mcp-an-ai-agent-that-diagnoses-solar-faults-b92030844dce)
+
 ### Education
 M.S. Computer Science, The University of Texas at Arlington (2024) · B.Tech Computer Science, Dhanekula Institute of Engineering and Technology (2022)
 
