@@ -2,7 +2,7 @@
 
 # Gopi Sri Krishna Yarlagadda
 
-**Lead Full Stack Engineer @ [Ascend Cargo](https://ascendcargo.com/)** · Dallas, Texas
+**Founding Full Stack Engineer @ [Ascend Cargo](https://ascendcargo.com/)** · Dallas, Texas
 *Agentic AI · RAG · Model Context Protocol · Platform engineering*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gopisrikrishna.github.io-ff8350?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gopisrikrishna.github.io/resume/)
@@ -17,7 +17,7 @@
 
 ## About
 
-I'm the Lead Full Stack Engineer at **[Ascend Cargo](https://ascendcargo.com/)**, where I'm building an **AI-powered freight and logistics SaaS platform from scratch**. One platform spans rates and carriers, orders and shipments, gate and yard operations, billing and audit, analytics and AI agents.
+I'm the Founding Full Stack Engineer at **[Ascend Cargo](https://ascendcargo.com/)**, where I'm building an **AI-powered freight and logistics SaaS platform from scratch**. One platform spans rates and carriers, orders and shipments, gate and yard operations, billing and audit, analytics and AI agents.
 
 My work sits where **agentic AI meets production engineering**: agents that automate shipment and invoice workflows, **retrieval-augmented generation (RAG)** and **Model Context Protocol (MCP)** integrations, all running on scalable Python and Java microservices on Kubernetes with secure authentication (OAuth 2.0, JWT, RBAC, SSO). Also written *Gopi Sri Krishna*.
 
@@ -60,7 +60,7 @@ An MCP server that lets AI agents read solar telemetry, find dated equipment fau
 ## Experience
 
 <details>
-<summary><b>Lead Full Stack Engineer</b>, Ascend Cargo (Oct 2024 to present)</summary>
+<summary><b>Founding Full Stack Engineer</b>, Ascend Cargo (Oct 2024 to present)</summary>
 
 - Building the AI logistics SaaS platform from scratch, from data ingest to AI agents
 - Python and Java microservices on Kubernetes with autoscaling for high availability
